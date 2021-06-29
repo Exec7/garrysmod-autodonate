@@ -84,4 +84,6 @@ autodonate["donate"]={
 			fulldesc="",
 			price=130,
 			func=function(player)autodonate.addweapon(player,"m9k_auga3")end
-		
+		}
+	}
+}
